@@ -16,6 +16,7 @@ public class Fibonacci {
         for (int i = 0; i < n; i++) {
             System.out.print(fib[i] +  " ");
         }
+		System.out.println("Terima Kasih Telah Mencoba");
     }
  
 }
